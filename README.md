@@ -1,2 +1,2 @@
 # Besant
-This is just for practicing the lectures
+This repo is just for practicing the lectures
